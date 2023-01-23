@@ -74,9 +74,9 @@ print(list_of_nums)
 ```
 
 ## Output:
-![](./SS.png)
+![output](./SS.png)
 
-![](./IS.png)
+![output](./IS.png)
 
 
 ## Result:
